@@ -32,6 +32,7 @@ Open Git Bash (Windows)
 ## Setup git on your computer
 
 **git config --global user.name "your name"**
+
 **git config --global user.email "example@gmail.com"**
 
 Note! You will need to use the same email address for Git and GitHub.
