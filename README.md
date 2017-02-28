@@ -75,3 +75,6 @@ Sign up or sign in, if you have existing account.
 You do not need to initialize repo **git init** if you cloned the repo to your computer. If you just started Git follow the below commands
 
 [My solution to exercise 2](exercises/SolutionToExercise2.txt) 
+
+## Practice exercise 3 Update and add files to your repo
+  Update your README.md and add files and folders to your local repository and push to your remote repository (GitHub).
