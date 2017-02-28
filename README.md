@@ -80,3 +80,9 @@ You do not need to initialize repo **git init** if you cloned the repo to your c
   Update your README.md and add files and folders to your local repository and push to your remote repository (GitHub).
 
 [My solution to exercise 3](exercises/SolutionToExercise3.txt) 
+
+
+## to remove repository from GitHub    > Settings > Delete this repository > Type repository name
+
+
+If you find any typos please let me know. Thanks
