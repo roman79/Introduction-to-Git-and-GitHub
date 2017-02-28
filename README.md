@@ -39,6 +39,23 @@ Note! You will need to use the same email address for Git and GitHub.
 
 ![Git Diagram](other/GitDiagram.png) 
 
+Git commands
+
+The **git init** command creates a new Git repository.
+The **git clone  url or path** copies an existing Git repository. (This can either be a repository stored locally on your computer, or one that exists remotely on the GitHub website).
+The **git add .** command tells Git to add all file to a temporary "staging area". 
+The **git commit -m "updated"** tells Git to save a snapshot of your files that are currently in the staging area.
+ Once you have committed your changes, Git will add that snapshot to its history. 
+In future you can revert your code to that particular point in time. 
+The **git push origin master** send all commited changes to remote repository - GitHub.
+The **git status** command tells you a useful summary of the current status of your repository. 
+
+The **git log** command will show you a list of all those commits, with a unique ID, a timestamp and a message.
+The **git diff** will show you a list of all the changes that you have made in your files - compared to the version that you last committed to Git.
+
+The **git pull** retrives changes from remote repository
+
+
 ## Setup GitHub account 
 Sign up or sign in, if you have existing account.
  
@@ -82,7 +99,7 @@ You do not need to initialize repo **git init** if you cloned the repo to your c
 [My solution to exercise 3](exercises/SolutionToExercise3.txt) 
 
 
-## to remove repository from GitHub    > Settings > Delete this repository > Type repository name
+**To remove repository from GitHub**    > Settings > Delete this repository > Type repository name
 
 
 If you find any typos please let me know. Thanks
