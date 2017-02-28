@@ -1,6 +1,6 @@
 ﻿# close and start Git Bash 
 
-cd Desktop/GetWD      # change to GitWD
+cd Desktop/GitWD/yourRepository      # for example  cd Desktop/GitWD/Introduction-to-Git-and-GitHub
 ls  # check what files in the repository (folder)
 
 git init
@@ -23,12 +23,14 @@ mv exercise5.txt exercises
 
 rm exercise4.md # removes (deletes) a file permanently
 
-
+## Optional ##
 # if you need to remove folder
 mkdir test6
 
-# rm -ir test6 removes a folder and all of it contents
+rm -ir test6 removes a folder and all of it contents
 # type yes
+
+##
 
 git status
 git add . 
