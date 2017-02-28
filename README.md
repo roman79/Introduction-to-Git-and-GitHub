@@ -21,16 +21,17 @@ Links:
 
 
 ## Download and install Git. 
-* [Link to Git Windows]  (http://git-scm.com/download/win)
+
+* [Link to Git Windows]  (http://git-scm.com/download/win) follow default settings
 *  **Linux (Debian)  - Command**     sudo apt-get install git
 
 Open Git Bash (Windows)
 
 **git status --help**  To get help on a particular git command    
 
-Setup git on your computer
+## Setup git on your computer
 
-git config --global user.name "your name"
-git config --global user.email "example@gmail.com"
+**git config --global user.name "your name"**
+**git config --global user.email "example@gmail.com"**
 
 Note! You will need to use the same email address for Git and GitHub.
