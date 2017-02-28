@@ -1,0 +1,2 @@
+# Introduction-to-Git-and-GitHub
+Git is the most popular distributed version control system. Git is an open source and it is created by the same people who developed Linux (Linus Torvalds). Git allows you to track files and file changes in a repository “repo” (folder). Everything is stored in local repositories on your computer. Git makes changes and tracks modification to the files stored in GitHub. Git synchronize repository and code between different people.
