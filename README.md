@@ -36,3 +36,26 @@ Open Git Bash (Windows)
 **git config --global user.email "example@gmail.com"**
 
 Note! You will need to use the same email address for Git and GitHub.
+
+![Git Diagram](other/GitDiagram.png) 
+
+## Setup GitHub account 
+Sign up or sign in, if you have existing account.
+ 
+* [Link to GitHub] (https://github.com/)
+
+
+## Star, Fork and Clone or Download buttons
+
+* If you like the repo, you can click **Star** button. The repo will be filtered by star in your GitHub.
+
+* The **Fork** button allows you to copy and save repo to your GitHub. This will allow you to contribute with others on that repository.
+
+*   **Clone or Download** button will allows you to clone URL or download zip file.
+
+
+## Practice exercise 1 Create your first repo in GitHub
+  
+  Public is a default and it is free but the content of the repo is available to everyone. 
+
+  It is better to add README.md file.
