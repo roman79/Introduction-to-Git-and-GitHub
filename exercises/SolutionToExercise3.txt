@@ -23,11 +23,11 @@ mv exercise5.txt exercises
 
 rm exercise4.md # removes (deletes) a file permanently
 
+
 # if you need to remove folder
 mkdir test6
 
-
-# rm -ir <dirname> removes a folder and all of it contents
+# rm -ir test6 removes a folder and all of it contents
 # type yes
 
 git status

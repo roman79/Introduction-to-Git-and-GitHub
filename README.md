@@ -78,3 +78,5 @@ You do not need to initialize repo **git init** if you cloned the repo to your c
 
 ## Practice exercise 3 Update and add files to your repo
   Update your README.md and add files and folders to your local repository and push to your remote repository (GitHub).
+
+[My solution to exercise 3](exercises/SolutionToExercise3.txt) 
