@@ -60,3 +60,18 @@ Sign up or sign in, if you have existing account.
 
   It is better to add README.md file.
 
+![My solution to exercise 1](Exercises/SolutionToExercise1.png) 
+
+## Markdown is a way to style text on the web.
+
+* [Link to Mastering markdown]	(https://guides.github.com/features/mastering-markdown/)
+
+## Practice exercise 2   Update your repo 
+
+   Clone your repo to your computer. 
+
+   Update README.md locally and push to your remore repository (GitHub).
+
+You do not need to initialize repo **git init** if you cloned the repo to your computer. If you just started Git follow the below commands
+
+![My solution to exercise 2](Exercises/SolutionToExercise2.png) 
