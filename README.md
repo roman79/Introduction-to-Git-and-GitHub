@@ -105,7 +105,18 @@ You do not need to initialize repo **git init** if you cloned the repo to your c
 [My solution to exercise 3](exercises/SolutionToExercise3.txt) 
 
 
+
+
+##
 **To remove repository from GitHub**    > Settings > Delete this repository > Type repository name
+##
+
+
+
+
+
+
+
 
 
 If you find any typos please let me know. Thanks
