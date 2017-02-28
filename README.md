@@ -60,7 +60,7 @@ Sign up or sign in, if you have existing account.
 
   It is better to add README.md file.
 
-![My solution to exercise 1](Exercises/SolutionToExercise1.txt) 
+![My solution to exercise 1](exercises/SolutionToExercise1.txt) 
 
 ## Markdown is a way to style text on the web.
 
@@ -74,4 +74,4 @@ Sign up or sign in, if you have existing account.
 
 You do not need to initialize repo **git init** if you cloned the repo to your computer. If you just started Git follow the below commands
 
-![My solution to exercise 2](Exercises/SolutionToExercise2.txt) 
+![My solution to exercise 2](exercises/SolutionToExercise2.txt) 
