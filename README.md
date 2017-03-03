@@ -28,7 +28,10 @@ Links:
 Open Git Bash (Windows)
 
 cd Desktop
+
 mkdir GitWD
+
+cd GitWD/yourClonedRepo
 
 **git status --help**  To get help on a particular git command    
 
