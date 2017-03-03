@@ -37,7 +37,7 @@ cd GitWD/
 
 cd Desktop/GitWD/yourClonedRepo
 
-
+======
 
 **git status --help**  To get help on a particular git command    
 
