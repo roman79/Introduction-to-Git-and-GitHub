@@ -27,6 +27,9 @@ Links:
 
 Open Git Bash (Windows)
 
+cd Desktop
+mkdir GitWD
+
 **git status --help**  To get help on a particular git command    
 
 ## Setup git on your computer
@@ -35,9 +38,12 @@ Open Git Bash (Windows)
 
 **git config --global user.email "example@gmail.com"**
 
+**git config --list**
+
 Note! You will need to use the same email address for Git and GitHub.
 
 ![Git Diagram](other/GitDiagram.png) 
+
 
 ## Git commands
 
@@ -84,6 +90,7 @@ Sign up or sign in, if you have existing account.
   It is better to add README.md file.
 
 [My solution to exercise 1](exercises/SolutionToExercise1.txt) 
+
 
 ## Markdown is a way to style text on the web.
 
