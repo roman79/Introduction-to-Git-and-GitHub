@@ -31,7 +31,13 @@ cd Desktop
 
 mkdir GitWD
 
-cd GitWD/yourClonedRepo
+cd GitWD/
+
+======
+
+cd Desktop/GitWD/yourClonedRepo
+
+
 
 **git status --help**  To get help on a particular git command    
 
@@ -98,6 +104,10 @@ Sign up or sign in, if you have existing account.
 ## Markdown is a way to style text on the web.
 
 * [Link to Mastering markdown]	(https://guides.github.com/features/mastering-markdown/)
+
+
+* [Link to Markdown-Cheatsheet]	(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 
 ## Practice exercise 2   Update your repo 
 
